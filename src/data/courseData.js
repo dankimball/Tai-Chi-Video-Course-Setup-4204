@@ -2,7 +2,11 @@ export const courseData = {
   type: 'course',
   id: 'video-embed-test',
   title: '🎥 Greta Video Test: Tai Chi Form',
-  description: 'This course module tests video embedding within Greta.',
+  description: 'This course module tests video embeddidng within Greta. In your own words, what is the reason for seeking care at this time? Describe any current problems as you see them.
+I would like to find clarity in my career as well as dealing with the emotions of aging parents.
+What are your goals for therapy / what would you like to accomplish?
+Figuring out what to do with my life and feeling better about the direction in which my life is heading.
+Are you currently under treatment for any medical condition?',
   
   onStart: [
     {
